@@ -1,0 +1,15 @@
+{
+  "name": "db-json",
+  "version": "1.0.0",
+  "description": "JSON Rest API for t4-forms",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Dom Gibson",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
